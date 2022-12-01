@@ -1,0 +1,44 @@
+body
+{
+    background-color: rgb(223, 216, 181);
+}
+#box
+{
+    width: 1650px;
+    height: 800px;
+    border: 2px solid white; 
+    /* This makes a box */
+    background-color: #fff;
+    margin: 150px 10px 135px 320px;
+    /* follows clock pattern || top right bottom left */
+    border-radius: 30px;
+}
+h1
+{
+    text-align: center;
+}
+p
+{
+    font-size: 25px;
+}
+#ft
+{
+
+margin: 0px 20px 0px 20px;
+/* clock pattern -> top right bottom left */
+}
+#submitbutton
+{
+    background-color:red;
+    margin-left: 760px;
+    margin-top: 20px;
+    color: white;
+}
+#m,#fm,#o
+{
+    font-size: 25px;
+}
+h4
+{
+    font-size: 20px;
+}
